@@ -1,1 +1,1 @@
-# automayed_amazon_price
+# automated_amazon_price
